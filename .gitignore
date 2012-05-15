@@ -1,4 +1,9 @@
-
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+# IDE Generated Files
 /.idea
 /out
 *.iml
